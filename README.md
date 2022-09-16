@@ -1,5 +1,9 @@
 # Backend
 
+## Dependencies
+Install dependencies with 
+### `npm install`
+
 ## Testing
 To run the full suite of test, you can run:
 ### `npm test`
@@ -16,6 +20,10 @@ To start the backend server locally, run:
 
 # Frontend
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Dependencies
+Install dependencies with 
+### `npm install`
 
 In the project directory, you can run:
 ### `npm start`
